@@ -54,7 +54,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            红丸觉醒、约会收尾、网聊、心态建设
+            红丸、Inner Game、Outer Game基础入门
           </p>
         </a>
 
@@ -71,7 +71,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            更多绝学在广州、佛山、深圳、上海、南京、杭州、青岛等你！
+            Alpha男的必修课
           </p>
         </a>
 
@@ -88,7 +88,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            专属一对一、情感挽回、狙击真命天女、反操纵、框架逆转......
+            处女杀手现场带你实战
           </p>
         </a>
 
@@ -105,7 +105,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            WeChat、Line、WhatsApp、Instagram、Facebook
+            各种18禁、马赛克绝学
           </p>
         </a>
         <a
@@ -121,7 +121,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            WeChat、Line、WhatsApp、Instagram、Facebook
+            表现出惊恐或愤怒，在女人看来就是你懦弱无能的表现...
           </p>
         </a>
       </div>
